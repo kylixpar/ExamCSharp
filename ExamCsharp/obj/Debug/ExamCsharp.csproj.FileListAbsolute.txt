@@ -1,0 +1,7 @@
+C:\Users\MINHVC\source\repos\ExamCsharp\ExamCsharp\obj\Debug\ExamCsharp.csprojAssemblyReference.cache
+C:\Users\MINHVC\source\repos\ExamCsharp\ExamCsharp\obj\Debug\ExamCsharp.csproj.CoreCompileInputs.cache
+C:\Users\MINHVC\source\repos\ExamCsharp\ExamCsharp\bin\Debug\ExamCsharp.exe.config
+C:\Users\MINHVC\source\repos\ExamCsharp\ExamCsharp\bin\Debug\ExamCsharp.exe
+C:\Users\MINHVC\source\repos\ExamCsharp\ExamCsharp\bin\Debug\ExamCsharp.pdb
+C:\Users\MINHVC\source\repos\ExamCsharp\ExamCsharp\obj\Debug\ExamCsharp.exe
+C:\Users\MINHVC\source\repos\ExamCsharp\ExamCsharp\obj\Debug\ExamCsharp.pdb
